@@ -1,4 +1,4 @@
-### Hellow World! ⭐️
+## Hellow World!
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/kuaifengle/count.svg" />
