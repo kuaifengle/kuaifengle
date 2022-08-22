@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning <strong>Flutter & React Js</strong>
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong>Data Structures in JavaScript, HTML, Vue, Flutter, Uni-app</strong>
-- ⚡ Fun fact: I can talk 24/7 about Game.
+- ⚡ Fun fact: I can drink water every day.
 
 ### Tools I work upon : 🛠
  
